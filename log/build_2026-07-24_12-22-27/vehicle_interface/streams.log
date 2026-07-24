@@ -1,0 +1,26 @@
+[0.016s] Invoking command in '/uav_ws/build/vehicle_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /uav_ws/build/vehicle_interface -- -j4 -l4
+[0.088s] [35m[1mConsolidate compiler generated dependencies of target vehicle_interface_node[0m
+[0.117s] [ 50%] [32mBuilding CXX object CMakeFiles/vehicle_interface_node.dir/src/vehicle_interface_node.cpp.o[0m
+[4.308s] [100%] [32m[1mLinking CXX executable vehicle_interface_node[0m
+[4.522s] [100%] Built target vehicle_interface_node
+[4.542s] Invoked command in '/uav_ws/build/vehicle_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /uav_ws/build/vehicle_interface -- -j4 -l4
+[4.561s] Invoking command in '/uav_ws/build/vehicle_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /uav_ws/build/vehicle_interface
+[4.574s] -- Install configuration: ""
+[4.574s] -- Installing: /uav_ws/install/vehicle_interface/lib/vehicle_interface/vehicle_interface_node
+[4.575s] -- Set runtime path of "/uav_ws/install/vehicle_interface/lib/vehicle_interface/vehicle_interface_node" to ""
+[4.575s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/ament_index/resource_index/package_run_dependencies/vehicle_interface
+[4.575s] -- Installing: /uav_ws/install/vehicle_interface/share/ament_index/resource_index/parent_prefix_path/vehicle_interface
+[4.576s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/environment/ament_prefix_path.sh
+[4.576s] -- Installing: /uav_ws/install/vehicle_interface/share/vehicle_interface/environment/ament_prefix_path.dsv
+[4.576s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/environment/path.sh
+[4.576s] -- Installing: /uav_ws/install/vehicle_interface/share/vehicle_interface/environment/path.dsv
+[4.577s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/local_setup.bash
+[4.577s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/local_setup.sh
+[4.577s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/local_setup.zsh
+[4.577s] -- Installing: /uav_ws/install/vehicle_interface/share/vehicle_interface/local_setup.dsv
+[4.577s] -- Installing: /uav_ws/install/vehicle_interface/share/vehicle_interface/package.dsv
+[4.577s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/ament_index/resource_index/packages/vehicle_interface
+[4.578s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/cmake/vehicle_interfaceConfig.cmake
+[4.578s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/cmake/vehicle_interfaceConfig-version.cmake
+[4.578s] -- Up-to-date: /uav_ws/install/vehicle_interface/share/vehicle_interface/package.xml
+[4.581s] Invoked command in '/uav_ws/build/vehicle_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /uav_ws/build/vehicle_interface
