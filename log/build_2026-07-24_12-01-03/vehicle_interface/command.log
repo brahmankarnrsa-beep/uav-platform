@@ -1,6 +1,0 @@
-Invoking command in '/uav_ws/build/vehicle_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /uav_ws/src/vehicle_interface -DCMAKE_INSTALL_PREFIX=/uav_ws/install/vehicle_interface
-Invoked command in '/uav_ws/build/vehicle_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /uav_ws/src/vehicle_interface -DCMAKE_INSTALL_PREFIX=/uav_ws/install/vehicle_interface
-Invoking command in '/uav_ws/build/vehicle_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /uav_ws/build/vehicle_interface -- -j4 -l4
-Invoked command in '/uav_ws/build/vehicle_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /uav_ws/build/vehicle_interface -- -j4 -l4
-Invoking command in '/uav_ws/build/vehicle_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /uav_ws/build/vehicle_interface
-Invoked command in '/uav_ws/build/vehicle_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /uav_ws/build/vehicle_interface
