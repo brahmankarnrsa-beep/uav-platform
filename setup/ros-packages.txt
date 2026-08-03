@@ -1,0 +1,8 @@
+mavros
+mavros-extras
+tf2
+tf2-ros
+tf2-geometry-msgs
+image-transport
+cv-bridge
+vision-opencv
