@@ -1,23 +1,13 @@
 #include <memory>
 
 #include "rclcpp/rclcpp.hpp"
-
-class VehicleInterfaceNode : public rclcpp::Node
-{
-public:
-    VehicleInterfaceNode()
-    : Node("vehicle_interface")
-    {
-        RCLCPP_INFO(this->get_logger(),
-                    "Vehicle Interface Node Started");
-    }
-};
+#include "vehicle_interface/vehicle_interface.hpp"
 
 int main(int argc, char * argv[])
 {
     rclcpp::init(argc, argv);
 
-    auto node = std::make_shared<VehicleInterfaceNode>();
+    auto node = std::make_shared<VehicleInterface>();
 
     rclcpp::spin(node);
 
